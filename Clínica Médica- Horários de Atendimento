@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MP Clínica Médica</title>
+    <link rel="stylesheet" href="BASE.CSS">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="PÁGINA PRINCIPAL INDEX.HTML">Página Principal</a></li>
+                <li><a href="SOBRE A CLÍNICA INDEX.HTML">Sobre a Clínica</a></li>
+                <li><a href="HORARIOS DE ATENDIMENTO INDEX.HTML">Horário de Atendimento</a></li>
+                <li><a href="CONTATOS INDEX.HTML">Contatos</a></li>
+            </ul>
+        </div>
+        <div class="main">
+            <div class="header">
+                <H1>Horário de Atendimento</H1>
+                <img src=https://oncoclinicas-assets-wordpress-prd.s3.amazonaws.com/wp-content/uploads/2021/12/14024241/13-clinica-me%CC%81dica.jpg width="700">
+                
+            </div>
+    
+            <div class="content">
+                <h2>Horário de Funcionamento e Tabela de Preços</h2>
+                <table border="1" widht="250"
+                >
+                    <tr>
+                        <th>Serviços</th>
+                        <th>Preços</th>
+                        <th>Horários de Atendimento</th>
+                    </tr>
+                    <tr>
+                        <td>Clínica Geral</td> 
+                        <td>R$ 199,00</td>
+                        <td>Seg a Sex - 08:00 as 18:00</td>
+                    <tr>
+                        <td>Psicologia</td> 
+                        <td>R$ 297,00</td>
+                        <td>Seg a Sex - 08:00 as 18:00</td>
+                    </tr>
+                    <tr>
+                        <td>Pediatria</td> 
+                        <td>R$ 217,00</td>
+                        <td>Seg a Sex - 08:00 as 18:00</td>
+                    </tr>
+                    <tr>
+                        <td>Ortopedia</td> 
+                        <td>R$ 379,00</td>
+                        <td>Seg a Sex - 08:00 as 18:00</td>
+                    </tr>
+                    <tr>
+                        <td>Neurologia</td> 
+                        <td>R$ 251,00</td>
+                        <td>Seg a Sex - 08:00 as 18:00</td>
+                    </tr>
+                </table>
+            </div>
+    
+    
+            <div class="footer">
+               <UL>
+                <li> 34 3257-7070</li>
+                <li> 34 3493-2100</li>
+                <li> 34 99127-7979</li>
+                <li>Av João Pinheiro,1021 </li>
+               </UL>
+            </div>
