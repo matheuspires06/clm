@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MP Clínica Médica</title>
+    <link rel="stylesheet" href="BASE.CSS">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="PÁGINA PRINCIPAL INDEX.HTML">Página Principal</a></li>
+                <li><a href="SOBRE A CLÍNICA INDEX.HTML">Sobre a Clínica</a></li>
+                <li><a href="HORARIOS DE ATENDIMENTO INDEX.HTML">Horário de Atendimento</a></li>
+                <li><a href="CONTATOS INDEX.HTML">Contatos</a></li>
+            </ul>
+        </div>
+
+        <div class="Página Principal">
+            <div class="header">
+                <img src="https://nossaclinicauberlandia.com.br/wp-content/uploads/2022/10/logo.png" width="200">
+                <H1>MP Clínica Médica</H1>
+            </div>
+    
+            <div class="content">
+                <p>Clínica médica, no Brasil também conhecida como Medicina Interna, é a especialidade médica que trata de pacientes adultos. O clínico geral, por ter uma visão mais global do organismo humano e das patologias que o afetam, é o profissional da Medicina mais bem preparado para proceder a diagnósticos.
+
+                    A figura desse profissional também é associada ao tradicional médico de família, que acompanha seus pacientes ao longo da vida, conhecendo profundamente seu histórico, levando em conta aspectos que costumam ser ignorados em consultórios, como o emocional. Esta função, que havia quase desaparecido da prática médica nas últimas décadas, está ressurgindo, principalmente em programas de saúde estatais e municipais.</p>
+                
+            </div>
+    
+            <div class="footer">
+               <UL>
+                <li> 34 3257-7070</li>
+                <li> 34 3493-2100</li>
+                <li> 34 99127-7979</li>
+                <li>Av João Pinheiro,1021 </li>
+               </UL>
+            </div>
+        </div>
